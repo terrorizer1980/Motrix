@@ -999,14 +999,14 @@
     lodash.merge "^4.6.2"
     log-update "^4.0.0"
 
-"@motrix/nat-api@^0.3.1":
-  version "0.3.1"
-  resolved "https://registry.npmjs.org/@motrix/nat-api/-/nat-api-0.3.1.tgz#de18e7101cc6ed82e9e1e7b5720cb2b40f490246"
-  integrity sha512-mUsW8BlSK4bE5kjC5H4oQPjnXXuiRtE2V26tzW/AOroXl5CuhMEr9EDrr+wUFvDHlDwK4B0uSOBa8yILr6AfbQ==
+"@motrix/nat-api@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@motrix/nat-api/-/nat-api-0.3.2.tgz#a1164e25b1401279e2170666b0df3455812e7e1e"
+  integrity sha512-T3LSHnEUULbSU1o1zCZZ1ul8l8Jm98f0fz/0BeF7DhNvrV63YllLCD4vUR9hFZWu/+WTIVPnbH8dBK5Ckuveuw==
   dependencies:
     async "^3.2.0"
-    debug "^4.1.1"
-    default-gateway "^6.0.1"
+    debug "^4.3.1"
+    default-gateway "^6.0.3"
     request "^2.88.2"
     unordered-array-remove "^1.0.2"
     xml2js "^0.4.23"
@@ -2880,9 +2880,9 @@ default-gateway@^4.2.0:
     execa "^1.0.0"
     ip-regex "^2.1.0"
 
-default-gateway@^6.0.1:
+default-gateway@^6.0.3:
   version "6.0.3"
-  resolved "https://registry.npmjs.org/default-gateway/-/default-gateway-6.0.3.tgz#819494c888053bdb743edbf343d6cdf7f2943a71"
+  resolved "https://registry.yarnpkg.com/default-gateway/-/default-gateway-6.0.3.tgz#819494c888053bdb743edbf343d6cdf7f2943a71"
   integrity sha512-fwSOJsbbNzZ/CUFpqFBqYfYNLj1NbMPm8MMCIzHjC83iSJRBEGmDUxU+WP661BaBQImeC2yHwXtz+P/O9o+XEg==
   dependencies:
     execa "^5.0.0"
