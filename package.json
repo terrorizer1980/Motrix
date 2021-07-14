@@ -206,7 +206,7 @@
     "electron-store": "^8.0.0",
     "electron-updater": "^4.3.9",
     "element-ui": "^2.15.2",
-    "i18next": "^20.3.1",
+    "i18next": "^20.3.2",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "normalize.css": "^8.0.1",
