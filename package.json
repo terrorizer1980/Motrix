@@ -193,7 +193,7 @@
     ]
   },
   "dependencies": {
-    "@babel/runtime": "^7.14.0",
+    "@babel/runtime": "^7.26.10",
     "@motrix/nat-api": "^0.3.1",
     "@panter/vue-i18next": "^0.15.2",
     "axios": "^0.21.1",
@@ -206,7 +206,7 @@
     "electron-store": "^8.0.0",
     "electron-updater": "^4.3.9",
     "element-ui": "^2.15.2",
-    "i18next": "^20.3.1",
+    "i18next": "^24.2.3",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "normalize.css": "^8.0.1",
